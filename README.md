@@ -14,4 +14,6 @@ Major Projects:
   * It also helps u build a virtual knowledge graph of it and sell it later
   * It helps you integrate and transfer your knowledge between human and machines faster
   * Based on individual content engagement studies, brain simulating hardware and advances in short content hooks and knowledge transfer at scale
+* HealthPatch
+  * TBD
 
