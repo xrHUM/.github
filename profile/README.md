@@ -3,7 +3,7 @@
 xrHUM is a proposed private research based deeptech moonshot factory that focuses on rapidly enhancing human capabilities on an individual level
 
 * We believe all tech is just extension of a human, as any limb is.
-* It should be empowered to utilize it in same manner as any limb is
+* It should be empowered to utilize it in the same manner
 * We tend to build space fearing enhanced human species
 
 Major Projects:
